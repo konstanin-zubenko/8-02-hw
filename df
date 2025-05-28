@@ -1,0 +1,36 @@
+[33m223dbc3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Update README.md
+[33m8fec98d[m Update README.md
+[33m21e8166[m Create 8.2-hw.md
+[33m157622f[m Update README.md
+[33m20c72e2[m Update README.md
+[33mc158c1f[m Delete docker-compose.yaml
+[33mdd2f31e[m Delete GITLAB.md
+[33mde8a2b6[m add dir gitlab
+[33md6c2b95[m Add files via upload
+[33m06eb7ab[m Add files via upload
+[33m866e3ed[m Update README.md
+[33m900ae49[m Merge pull request #1 from netology-code/master
+[33mda5acf7[m branch main, add creds for vagrant box
+[33m4d997f0[m Add files via upload
+[33m8e702cf[m Add files via upload
+[33m525c55a[m change Vagrantfile
+[33m0574274[m Update Vagrantfile
+[33m327dc91[m Update Vagrantfile
+[33m2b57b28[m Create README.md
+[33m92a7307[m Create main_test.go
+[33me3193e2[m Create main.go
+[33m6e670f5[m Add files via upload
+[33m08d8e02[m Add files via upload
+[33mf9e193f[m Create Vagrantfile
+[33m34cb30e[m Create Dockerfile
+[33m98b0b14[m Delete README.md
+[33m776b76f[m Delete main_test.go
+[33mfbde550[m Delete main.go
+[33m6977c2a[m Delete go.mod
+[33m55908db[m Delete Vagrantfile
+[33mec634d9[m Delete Dockerfile
+[33md20ee1f[m Update Vagrantfile
+[33m8ebaec0[m Update Dockerfile
+[33m2ee03cf[m Add files via upload
+[33m1438ff7[m Update README.md
+[33mb2a0331[m Initial commit
